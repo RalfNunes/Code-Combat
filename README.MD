@@ -26,6 +26,6 @@ Os exercicios são desenvolvido com a seguinte tecnologia:
 
 ## 💻 Projeto
 
-- É ensinar o ambiente de programação para o meu filho de 11 anos ♥.
+- Ensinando uma linguagem de programação para o meu filho de 10 anos ♥.
 
 ---
